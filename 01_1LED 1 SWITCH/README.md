@@ -16,7 +16,7 @@
     Switch(Input) --> SWITCH[0]
     
     LED (Output)  --> LED[0]
-## Video
+## Output Video
 
 ### Video -1
 
