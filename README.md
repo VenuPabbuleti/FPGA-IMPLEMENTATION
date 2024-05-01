@@ -8,7 +8,9 @@ Each project in this repository is designed to introduce you to various aspects 
 To get started with these projects, follow these steps:
 
 **Hardware Setup:** Obtain a Nexys4DDR FPGA board and ensure it is properly connected to your development environment.
+
 **Software Installation:** Install Xilinx Vivado tool, the industry-standard FPGA design software, on your computer.
+
 **Cloning the Repository:** Clone or download this repository to your local machine to access the project files.
 
 ### Project Structure
