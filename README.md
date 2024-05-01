@@ -11,11 +11,11 @@ Hardware Setup: Obtain a Nexys4DDR FPGA board and ensure it is properly connecte
 Software Installation: Install Xilinx Vivado tool, the industry-standard FPGA design software, on your computer.
 Cloning the Repository: Clone or download this repository to your local machine to access the project files.
 
-##Project Structure
+### Project Structure
 Each project folder contains the following:
 
-README.md: Detailed instructions and explanations for the project, including objectives, design overview, implementation steps, and testing procedures.
+#### README.md: Detailed instructions and explanations for the project, including objectives, design overview, implementation steps, and testing procedures.
 
-Verilog Files: Verilog HDL source files (.v) containing the design implementation.
+#### Verilog Files: Verilog HDL source files (.v) containing the design implementation.
 
-Constraints File: Xilinx constraints file (.xdc) specifying pin assignments and other design constraints.
+#### Constraints File: Xilinx constraints file (.xdc) specifying pin assignments and other design constraints.
