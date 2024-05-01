@@ -1,5 +1,12 @@
 # LED BLINKING
-  This includes Interfacing of LED using Switch i.e Nothing but a Buffer
+
+**🔹 Project Overview:** Using Verilog HDL, I coded a simple circuit to control an LED on the Nexys4DDR FPGA board.
+
+**🔹 Implementation:** Leveraging the board's resources, I mapped the Verilog code to the FPGA, enabling it to control the LED.
+
+**🔹 Verification:** After synthesis and implementation, I tested the functionality to ensure the LED blinked as expected.
+
+  This repository includes Interfacing of LED using Switch i.e Nothing but a Buffer
   
     ==> Switch - HIGH(1) ---> LED Turn on
     
@@ -25,5 +32,4 @@
     <img width="250" src="https://img.youtube.com/vi/yJYYwtVQyPQ/0.jpg">
     </br>Click on Image to Watch on YouTube!
 </a>
-
 
