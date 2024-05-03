@@ -1,5 +1,12 @@
 # LED BLINKING
-This includes LEDS interfacing using a single SWITCH 
+**🔹 Project Overview:** Using Verilog HDL, I coded a simple circuit to control an LED on the Nexys4DDR FPGA board.
+
+**🔹 Implementation:** Leveraging the board's resources, I mapped the Verilog code to the FPGA, enabling it to control the LED.
+
+**🔹 Verification:** After synthesis and implementation, I tested the functionality to ensure the LED blinked as expected.
+
+
+This repository includes All LEDS of FPGA are blinking using a single SWITCH 
 
 ->16 LEDs of FPGA Board  are Turn on and Turn off using a Single Switch 
     
