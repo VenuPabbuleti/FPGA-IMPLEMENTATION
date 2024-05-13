@@ -7,19 +7,9 @@ Carry is 1 when both the inputs are 1 else it is 0, sum is 1 when if either of i
 
 ![HALF ADDER](https://www.tutorialspoint.com/assets/questions/media/334420-1672057906.jpg)
 
-🔹Project Overview: Leveraging Verilog HDL and Xilinx Vivado, I designed a half adder circuit to perform binary addition using only LEDs for output display and switches for input.
+🔹**Project Overview:** Leveraging Verilog HDL and Xilinx Vivado, I designed a half adder circuit to perform binary addition using only LEDs for output display and switches for input.
 
 🔹Understanding Half Adder: The half adder is a fundamental digital circuit that adds two binary digits (bits) and produces a sum and carry output.
-Input A.    	Input B	      Sum (S)	         Carry (C)
-  0	                0	               0                    	0
-  0      	        1	               1 	                  0
- 1	                0	               1	                    0
- 1	                1	               0	                     1
-
-In the truth table:
---> Input A and Input B represent the two binary digits (bits) to be          added.
---> Sum (S) represents the result of the addition of Input A and Input B (bitwise XOR operation).
--->Carry (C) represents the carry-out generated from the addition of Input A and Input B (bitwise AND operation).
 
 🔹FPGA Implementation: Utilizing the resources of the Nexys4 DDR FPGA board, I mapped the Verilog code to the FPGA, enabling it to perform the half adder functionality.
 
