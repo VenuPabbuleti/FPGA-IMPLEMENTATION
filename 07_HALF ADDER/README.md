@@ -9,13 +9,13 @@ Carry is 1 when both the inputs are 1 else it is 0, sum is 1 when if either of i
 
 🔹**Project Overview:** Leveraging Verilog HDL and Xilinx Vivado, I designed a half adder circuit to perform binary addition using only LEDs for output display and switches for input.
 
-🔹Understanding Half Adder: The half adder is a fundamental digital circuit that adds two binary digits (bits) and produces a sum and carry output.
+🔹**Understanding Half Adder:** The half adder is a fundamental digital circuit that adds two binary digits (bits) and produces a sum and carry output.
 
-🔹FPGA Implementation: Utilizing the resources of the Nexys4 DDR FPGA board, I mapped the Verilog code to the FPGA, enabling it to perform the half adder functionality.
+🔹**FPGA Implementation:** Utilizing the resources of the Nexys4 DDR FPGA board, I mapped the Verilog code to the FPGA, enabling it to perform the half adder functionality.
 
-🔹Interactive Learning: By using LEDs to visually represent the output and switches for user input, this project provides an interactive learning experience in digital logic design and FPGA programming.
+🔹**Interactive Learning:** By using LEDs to visually represent the output and switches for user input, this project provides an interactive learning experience in digital logic design and FPGA programming.
 
-🔹Hands-On Experimentation: Experimenting with the half adder circuit on real hardware allows for hands-on learning, reinforcing theoretical concepts with practical application.
+🔹**Hands-On Experimentation:** Experimenting with the half adder circuit on real hardware allows for hands-on learning, reinforcing theoretical concepts with practical application.
 
   ## In FPGA Board
   
