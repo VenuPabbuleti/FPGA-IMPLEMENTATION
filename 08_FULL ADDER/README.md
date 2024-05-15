@@ -1,5 +1,8 @@
 # FULL ADDER
 A combinational circuit which is designed to add three binary digits and produces two outputs (sum and carry) is known as a full adder.
+**1.Project Overview:** Leveraging Verilog HDL and Xilinx Vivado, I designed a full adder circuit to perform binary addition using LEDs for output display and switches for input.
+
+**2.Understanding Full Adder:** Unlike a half adder, a full adder can add three binary digits (two operands and a carry-in) and produces a sum and carry output.
 
 ### Circuit diagram
 ![Circuit diagram](https://www.tutorialspoint.com/assets/questions/media/334420-1672056646.jpg)
