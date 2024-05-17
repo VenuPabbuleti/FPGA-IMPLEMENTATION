@@ -1,5 +1,22 @@
 # INCREMENTOR OR UP COUNTER USING PUSH BUTTONS
 
+## Project Overview
+Leveraging Verilog HDL and Xilinx Vivado, I designed an up counter that increments its value with each press of a push button and displays the current count using the board's LEDs.
+
+## Understanding the Up Counter
+An up counter is a fundamental digital circuit that counts upward in binary with each clock pulse or button press. It’s widely used in various digital systems for tasks such as event counting, time measurement, and more.
+
+## FPGA Implementation
+**1.Verilog Design:** I wrote Verilog code to define the up counter's behavior, ensuring it increments the count with each button press.
+
+**2.Button Debouncing:** To ensure reliable operation, I implemented debounce logic. This filters out any noise or bouncing signals from the push buttons, ensuring accurate counting.
+
+**3.LED Display:** The current count is displayed on the Nexys4 DDR board’s LEDs, providing a clear visual representation of the counter’s state.
+
+## Interactive Learning
+By using LEDs for output display and push buttons for input, this project offers an engaging, hands-on learning experience in digital logic design and FPGA programming.
+
+
 => Here,Implementation of 3 bit up counter
 
 => Input is Push button
