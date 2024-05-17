@@ -1,6 +1,6 @@
 # INCREMENTOR OR UP COUNTER USING PUSH BUTTONS
 
-## Project Overview
+<u> **Project Overview**</u> 
 Leveraging Verilog HDL and Xilinx Vivado, I designed an up counter that increments its value with each press of a push button and displays the current count using the board's LEDs.
 
 ## Understanding the Up Counter
