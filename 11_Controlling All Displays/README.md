@@ -1,5 +1,31 @@
 # CONTROLLING ALL SEVEN SEGMENT DISPLAYS
 
+🔵**Project Overview**
+
+Leveraging Verilog HDL and Xilinx Vivado, I designed a system that allows individual control of each of the 8 seven-segment displays on the Nexys4 DDR board using switches for input.
+
+🔵**Understanding Seven-Segment Displays**
+
+Seven-segment displays are widely used in digital devices for displaying decimal numbers and some characters. Each display consists of 7 LEDs (segments) arranged in a pattern that can be turned on or off to form different numbers or characters.
+
+🔵**FPGA Implementation**
+
+**1. Verilog Design:** I wrote Verilog code to interpret switch inputs and control the segments of each of the 8 displays accordingly.
+
+**2. Switch Input:** The switches on the Nexys4 DDR board are used to input binary values that determine which segments of the displays are lit.
+
+**3. Display Control:** The Verilog code manages the multiplexing of the displays, allowing all 8 displays to be controlled individually from the same set of switches.
+
+🔵 Features and Functionality
+
+**🔹Binary to Segment Mapping:** The switches represent binary input which is then decoded to control the segments of the displays, allowing various numbers and characters to be displayed.
+
+**🔹Multiplexing:** To efficiently manage the displays, a multiplexing technique is used to control all 8 displays with a minimal number of input switches.
+
+**🔹Interactive Control:** Users can interactively change the switch positions to dynamically update the displayed values across all 8 seven-segment displays.
+
+##
+
 => Here,Implementation of Binary to hexa conversion
 
 => 8 Seven Segment displays are controlled by 8 switches
