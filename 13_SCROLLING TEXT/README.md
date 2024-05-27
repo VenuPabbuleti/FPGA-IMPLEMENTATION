@@ -4,7 +4,9 @@ Scrolling text includes changing of text on each display,i.e transferring conten
 This includes 3 main parts
 
 1.Storing of contents in registers
+
 2.refreshing clock 
+
 3.Scroller counter
 
 Here,we have 8 displays in Nexys4 ddr Fpga board,so we need to take 8 temporary registers.In these registers storing contents which are to be displayed,Based on the scrolling counter the content which is stored in registers are displayed in 8 seven segment displays.
